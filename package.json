@@ -1,0 +1,36 @@
+{
+  "name": "login_social",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "latest",
+    "connect-flash": "~0.1.1",
+    "cookie-parser": "latest",
+    "cron": "^1.6.0",
+    "crypto": "^1.0.1",
+    "ejs": "latest",
+    "express": "~4.12.3",
+    "express-session": "latest",
+    "install": "^0.12.2",
+    "moment": "^2.23.0",
+    "mongoose": "latest",
+    "morgan": "~1.5.2",
+    "nodemailer": "^4.7.0",
+    "passport": "~0.2.1",
+    "passport-facebook": "~2.0.0",
+    "passport-google-oauth": "~0.2.0",
+    "passport-local": "~1.0.0",
+    "passport-twitter": "^1.0.4",
+    "path": "^0.12.7",
+    "stripe": "^6.20.0",
+    "util": "^0.11.1"
+  }
+}
